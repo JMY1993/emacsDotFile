@@ -26,3 +26,6 @@
 ** buffers
   - eval-buffer
   - revert-buffer =S-u=
+
+** fonts
+  - doom/increase-font-size
