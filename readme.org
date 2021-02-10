@@ -1,0 +1,28 @@
+#+STARTUP: showall hidestars
+* Lesson 1
+  package manager & setups
+  - melpa and its setup
+  - use-package
+  - try
+  - which-key
+* Lesson 2
+  org-mode
+* Lesson 3
+  
+* KBDs & functions
+** outline visibility cycling
+  - org-cycle <tab>
+
+** insert a link
+  - org-insert-link =C-c C-l=
+
+** move **subtree** or **table row** up & down
+  - org-metaup =M-up=
+  - org-metadown =M-down=
+
+** open link, timestamp, footnote or tags at point
+  - org-open-at-point =C-c C-o=
+
+** buffers
+  - eval-buffer
+  - revert-buffer =S-u=
